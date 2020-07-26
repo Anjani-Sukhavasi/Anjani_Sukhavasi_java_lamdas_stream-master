@@ -1,1 +1,1 @@
-# Anjani_Sukhavasi_java_lamdas_stream-master
+# Anjani_Sukhavasi_java8_lamdas_stream
